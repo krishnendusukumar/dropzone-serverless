@@ -3,7 +3,7 @@
 **Live Demo** → https://dropzone-serverless.vercel.app  
 **GitHub** → https://github.com/krishnendusukumar/dropzone-serverless
 
-### Features (100% working)
+### Features 
 - Direct upload to S3 using presigned URLs  
 - Zero backend server needed  
 - Public file URLs (instant open in browser)  
